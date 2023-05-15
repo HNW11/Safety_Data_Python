@@ -3,6 +3,7 @@
 <h1>Analyze Traffic Safety Data with Python</h1>
 <h2>Overview</h2>
 This case study takes you through an analysis of car collision rates and smartphone usage over time. Throughout the analysis you will:
+
     <ul>
         <li>visualize time-series data</li>
         <li>do exploratory data analysis</li>
